@@ -1,6 +1,6 @@
-*as
-*asfasfa
-  *afsadfs
-  *asdas
-*afssafs
-  *asfdag
+* as
+* asfasfa
+  * afsadfs
+  * asdas
+* afssafs
+  * asfdag
